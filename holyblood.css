@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+
 :root {
 	--bg-container-color: #8CA5A1;
 	--bg-submenu-highlight: #A3B3B0;
@@ -59,7 +61,7 @@
 
 @media (min-width: 768px) {
 	body {
-		font-family: "Sorts Mill Goudy", serif;
+		font-family: "Sedan SC", serif;
 		background: #00020f url(https://i.ibb.co/xqXPCnPp/a940a3e….jpg) fixed;
 		background-repeat: no-repeat;
 		background-size: 100%;
@@ -71,7 +73,7 @@
 
 @media (max-width: 768px) {
 	body {
-		font-family: "Sorts Mill Goudy", serif;
+		font-family: "Sedan SC", serif;
 		background: #00020F;
 		background-repeat: no-repeat;
 		background-size: 100%;
