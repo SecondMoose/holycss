@@ -266,11 +266,11 @@ div .left {
 }
 
 div .feature {
-	background: #ffffff;
+	background: #ffffff00;
 	padding: 5px 8px;
 	border-radius: 4px;
-	border: 1px solid #ffffff;
-	background: #ffffff;
+	border: 1px solid #ffffff00;
+	background: #ffffff00;
 }
 
 .feature-footer {
